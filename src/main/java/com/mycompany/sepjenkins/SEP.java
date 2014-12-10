@@ -4,6 +4,7 @@ import java.util.Arrays;
 /**
  * @author Kamil
  */
+
 public class SEP {
     public static void main(String[] args) {
         System.out.println("Running...");
